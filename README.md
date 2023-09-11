@@ -347,7 +347,7 @@ int main(int argc, char **argv)
 ## (ii) block.x = 256
 ```
 Name : ISHWARYA V
-Register No : 212221244016
+Register No : 21222124016
 
 #include "common.h"
 #include <cuda_runtime.h>
