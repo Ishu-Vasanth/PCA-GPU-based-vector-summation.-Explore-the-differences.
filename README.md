@@ -503,10 +503,17 @@ int main(int argc, char **argv)
 ## Output:
 
 ### block.x = 1023
+![WhatsApp Image 2023-09-11 at 10 56 43](https://github.com/Ishu-Vasanth/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94154614/f7157bcc-af3d-4dfa-91af-44405c9e5fc3)
+
 
 ### block.x = 1024
+![1](https://github.com/Ishu-Vasanth/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94154614/e952a2c1-b89f-4a7d-8c82-0ed2d25c7b08)
+
+
 
 ### block.x = 256
+![WhatsApp Image 2023-09-11 at 10 56 43](https://github.com/Ishu-Vasanth/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94154614/5db838ef-c7ee-40d2-bd59-985e957d79ba)
+
 
 ### Host-based array summation vs GPU-based vector summation
 
